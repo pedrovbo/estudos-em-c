@@ -13,7 +13,7 @@ int main()
 	for (posicao=1;posicao<=tamlista;posicao++)	
 	{
 		scanf("%d",&numero);
-		//verifca se o numero está no vetor
+		//verifca se o numero estï¿½ no vetor
 		posvet=0;
 		achou=0;
 		while (posvet<=tamvet-1 && achou==0)
@@ -24,6 +24,8 @@ int main()
 		}
 		if (achou==1)
 			printf("achou na posicao: %d",posvet);
+		
+		
 		else
 			printf("nao achou o numero");			
 	}
