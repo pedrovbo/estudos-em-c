@@ -1,4 +1,4 @@
-//entrada de dados - funcao scanf
+/*entrada de dados - funcao scanf*/
 
 #include<stdio.h>
 #include<stdlib.h>

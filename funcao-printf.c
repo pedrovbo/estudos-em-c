@@ -1,4 +1,4 @@
-//saida de dados - funcao printf
+/*saida de dados - funcao printf*/
 
 #include<stdio.h>
 #include<stdlib.h>

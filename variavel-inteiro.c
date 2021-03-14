@@ -1,4 +1,4 @@
-//declarando uma variavel do tipo inteiro//
+/*declarando uma variavel do tipo inteiro*/
 
 #include<stdio.h>
 #include<stdlib.h>

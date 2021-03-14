@@ -1,4 +1,4 @@
-//esqueleto basico
+/*esqueleto basico*/
 
 #include<stdio.h>
 #include<stdlib.h>
