@@ -2,3 +2,5 @@
 .vs/VSWorkspaceState.json
 .vs/estudos-em-c/v16/.suo
 struct.c
+*.exe
+lendo-apenas-consoantes.*
