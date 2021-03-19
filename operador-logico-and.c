@@ -1,4 +1,4 @@
-//operador logico &&
+/*operador logico &&*/
 
 #include<stdio.h>
 
