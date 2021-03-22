@@ -1,4 +1,4 @@
-// copiar dados de uma string para outra + comando strcpy
+//string.h copiando uma quantidade de caracteres - strncpy
 
 #include<stdio.h>
 #include<string.h>
@@ -13,10 +13,9 @@ int main(void)
 
     printf("Nome1 = %s \n", nome1);
 
-    //strcpy(nome, "Fulano de tal");// - primeiro modo
-    strcpy(nome2,nome1); //segundo modo
-    //strcpy(string_destino, string_origem);
-    
+    strncpy(nome2, nome1, 3);
+    //strncpy(string_destino, string_origem, quantidade de caracteres copiados)
+
     printf("Nome2 = %s \n", nome2);
 
     return 0;
